@@ -7,7 +7,7 @@ define("config", function () {
     url:       "/",
 
     // visible link in the navigation:
-    sitename:  "gothamcity.freifunk.net",
+    sitename:  "goettingen.freifunk.net",
 
     // initial gravity, friction, of the graph at pageload:
     gravity:   0.05,
